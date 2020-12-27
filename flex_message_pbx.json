@@ -1,0 +1,47 @@
+{
+  "type": "bubble",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "OFON ID",
+        "weight": "bold"
+      }
+    ]
+  },
+  "hero": {
+    "type": "image",
+    "url": "https://ofon.co.id/assets/images/logo/cloud_pbx2.png",
+    "size": "full",
+    "aspectRatio": "4:3",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "OFON PBX",
+        "size": "sm",
+        "color": "#c9302c",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "oleh: OFON ID",
+        "size": "sm",
+        "color": "#c9302c"
+      },
+      {
+        "type": "text",
+        "text": "Ofon PBX adalah sebuah infrastruktur PBX (Private Branch Exchange) berbasis cloud yang dapat diimplementasikan sebagai CPaaS (Communication Platform as a Service). Solusi ini dapat dimanfaatkan untuk mendukung Bisnis yang tersebar di bebagai lokasi dan pola kerja dengan mobilitas tinggi.",
+        "size": "sm",
+        "wrap": true,
+        "margin": "lg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "ofon/bot-php",
+    "description": "Simple line bot using php slim framework",
+    "type": "project",
+    "require": {
+        "php": "^7.3",
+        "slim/slim": "^4.7",
+        "slim/psr7": "^1.3",
+        "linecorp/line-bot-sdk": "^6.1",
+        "nyholm/psr7": "^1.3",
+        "nyholm/psr7-server": "^1.0",
+        "guzzlehttp/psr7": "^1.7",
+        "http-interop/http-factory-guzzle": "^1.0",
+        "laminas/laminas-diactoros": "^2.5"
+    },
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Jabbar",
+            "email": "multimediary@gmail.com"
+        }
+    ]
+}

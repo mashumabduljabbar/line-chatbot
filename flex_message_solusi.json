@@ -1,0 +1,144 @@
+{
+  "type": "carousel",
+    "contents":[
+		{
+		  "type": "bubble",
+		  "header": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				"type": "text",
+				"text": "OFON ID",
+				"weight": "bold"
+			  }
+			]
+		  },
+		  "hero": {
+			"type": "image",
+			"url": "https://ofon.co.id/assets/images/logo/unified.jpeg",
+			"size": "full",
+			"aspectRatio": "4:3",
+			"aspectMode": "cover"
+		  },
+		  "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				"type": "text",
+				"text": "Unified Communication and Collaboration",
+				"size": "sm",
+				"color": "#c9302c",
+				"weight": "bold"
+			  },
+			  {
+				"type": "text",
+				"text": "oleh: OFON ID",
+				"size": "sm",
+				"color": "#c9302c"
+			  },
+			  {
+				"type": "text",
+				"text": "Solusi kolaborasi kami dimulai dengan produk in-house OFON yaitu Ofon PBX, platform PBX skala enterprise berbasis cloud. Cloud PBX dapat dihubungkan dengan sambungan telepon yang sudah ada di kantor, atau dihubungkan langsung dengan layanan telepon tetap OFON. Bagi organisasi yang menggunakan plaform lain, kami menawarkan solusi integrasi sambungan telephone dengan platform kolaborasi pilihan anda dengan Cloud SBC. OFON merupakan satu-satunya operator yang menawarkan solusi integrasi sambungan telephone ke platform kolaborasi Microsoft Teams – 100% berbasis cloud dengan Cloud Direct Routing.",
+				"size": "sm",
+				"wrap": true,
+				"margin": "lg"
+			  }
+			]
+		  }
+		},{
+		  "type": "bubble",
+		  "header": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				"type": "text",
+				"text": "OFON ID",
+				"weight": "bold"
+			  }
+			]
+		  },
+		  "hero": {
+			"type": "image",
+			"url": "https://ofon.co.id/assets/images/logo/vc-500.jpg",
+			"size": "full",
+			"aspectRatio": "4:3",
+			"aspectMode": "cover"
+		  },
+		  "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				"type": "text",
+				"text": "Conference and Collaboration Tools",
+				"size": "sm",
+				"color": "#c9302c",
+				"weight": "bold"
+			  },
+			  {
+				"type": "text",
+				"text": "oleh: OFON ID",
+				"size": "sm",
+				"color": "#c9302c"
+			  },
+			  {
+				"type": "text",
+				"text": "OFON Enterprise solution mengemas solusi-solusi perangkat pendukung kolaborasi virtual untuk individu maupun ruangan meeting kantor anda. Solusi perangkat yang kami tawarkan pada umumnya compatible dengan software conference populer pilihan anda. Tingkatkan kualitas kolaborasi virtual dari rumah, cafe, atau kantor dan tingkatkan produktivitas kerja. Cari tau lebih lanjut paket pilihan layanan kami.",
+				"size": "sm",
+				"wrap": true,
+				"margin": "lg"
+			  }
+			]
+		  }
+		},{
+		  "type": "bubble",
+		  "header": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				"type": "text",
+				"text": "OFON ID",
+				"weight": "bold"
+			  }
+			]
+		  },
+		  "hero": {
+			"type": "image",
+			"url": "https://ofon.co.id/assets/images/logo/manage_service.jpeg",
+			"size": "full",
+			"aspectRatio": "4:3",
+			"aspectMode": "cover"
+		  },
+		  "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				"type": "text",
+				"text": "Managed Service",
+				"size": "sm",
+				"color": "#c9302c",
+				"weight": "bold"
+			  },
+			  {
+				"type": "text",
+				"text": "oleh: OFON ID",
+				"size": "sm",
+				"color": "#c9302c"
+			  },
+			  {
+				"type": "text",
+				"text": "Alihkan porsi infrastruktur dan manajemen system telephony organisasi anda ke OFON Enterprise Solution. Berangkat dari operator layanan teleponi tetap berbasis IP, keahlian kami adalah segala solusi terkait dengan telephony. Dari pengadaan perangkat, penyewaan perangkat, pemasangan infrastrukur, dan manajemennya. Sampai integrasi system telephony ke platform CRM, ERP dan operasional anda dengan VoiceAPI.",
+				"size": "sm",
+				"wrap": true,
+				"margin": "lg"
+			  }
+			]
+		  }
+		}
+	]
+}
